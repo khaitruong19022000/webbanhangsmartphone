@@ -1,0 +1,28 @@
+/*Custom style for index file*/
+.logo_container .logo img{
+	width: 260px !important; 
+	position:relative;
+	bottom: 20px;
+}
+
+.header_search{
+	position: relative;
+	left: 100px;
+}
+
+
+/* Giảm padding-bottom của header main */
+.header_main{
+	padding-bottom: 0px !important;
+	height: 150px
+}
+
+
+
+/* Custom style for the product page */
+
+.logo_container .logo-on-product img{
+	width: 260px !important;
+	position: relative;
+	top: 20px;
+}
